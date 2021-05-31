@@ -1,0 +1,16 @@
+/**/
+h3{
+  text-align: center;
+  margin-top: 30px;
+  background-color: #F7A3A3;
+}
+
+button{
+  margin-top: 30px;
+}
+
+#resultado{
+  border: solid black 1px;
+  text-align: center;
+  padding: 100px;
+}
